@@ -52,13 +52,9 @@ highlight_name: false
 
 Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the [European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en) strategic plan. It aims to make the EU's economy sustainable by turning climate and environmental challenges into opportunities, and making the transition just and inclusive for all.
 
-- there are no net emissions of greenhouse gases by 2050
-- economic growth is decoupled from resource use
-- no person and no place is left behind
-
 Our data observatory is competing in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon). We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
 
-{{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: [data curation](/service/data-curation/), [open data access](/service/open-data/), [survey harmonization](/software/retroharmonize/), [reproducible research](/service/research/) and validated [trustworthy AI applications](/service/trustworthy-ai/).
+{{< icon name="hand-point-right" pack="fas" >}} Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
