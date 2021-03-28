@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Green Deal Data Observatory
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,9 +10,9 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
+- name: Yes!Delft
+  url: https://yesdelft.nl/
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -45,16 +45,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/dataandlyrics
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/antaldaniel/reprex
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/company/68855596/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +67,19 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, Europe needs a new growth strategy that will transform the Union into a modern, resource-efficient and competitive economy, where
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- there are no net emissions of greenhouse gases by 2050
+- economic growth is decoupled from resource use
+- no person and no place is left behind
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+The European Green Deal is our plan to make the EU's economy sustainable by turning climate and environmental challenges into opportunities, and making the transition just and inclusive for all.
+
+We believe that policies of the European Green deal must be created in a transparent process based on evidence. Our data observatory is a competing submission in the EU Datathon 2021 created in an open collaboration.  Our aim is to support the introduction of Open Policy Analysis standards with open data, open-source software and research automation. 
+
+{{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: [data curation](/service/data-curation/), [open data access](/service/open-data/), [survey harmonization](/software/retroharmonize/), [reproducible research](/service/research/) and validated [trustworthy AI applications](/service/trustworthy-ai/).
+
+{{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
+
+
+{{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
