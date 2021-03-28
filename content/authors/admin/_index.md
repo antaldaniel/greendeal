@@ -50,13 +50,11 @@ email: ""
 highlight_name: false
 ---
 
-Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, Europe needs a new growth strategy that will transform the Union into a modern, resource-efficient and competitive economy, where
+Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the [European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en) strategic plan. It aims to make the EU's economy sustainable by turning climate and environmental challenges into opportunities, and making the transition just and inclusive for all.
 
 - there are no net emissions of greenhouse gases by 2050
 - economic growth is decoupled from resource use
 - no person and no place is left behind
-
-The European Green Deal is our plan to make the EU's economy sustainable by turning climate and environmental challenges into opportunities, and making the transition just and inclusive for all.
 
 We believe that policies of the European Green deal must be created in a transparent process based on evidence. Our data observatory is a competing submission in the EU Datathon 2021 created in an open collaboration.  Our aim is to support the introduction of Open Policy Analysis standards with open data, open-source software and research automation. 
 
