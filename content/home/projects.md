@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
-title: Projects
-subtitle: ''
+title: Ongoing projects
+subtitle: 'See what we are doing, why we are doing it, and how you can contribute.'
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Make Coal History
+    tag: coal-history
+  - name: Regions & Sub-national Boundaries
+    tag: sub-national
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

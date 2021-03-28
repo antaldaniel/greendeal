@@ -10,18 +10,24 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Get Involved
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Contributors
+    url: '#contributors'
     weight: 40
-  - name: Publications
+  - name: Use Cases
     url: '#featured'
     weight: 50
+  - name: Code
+    url: '#software'
+    weight: 60
+  - name: Talks
+    url: '#talks'
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
