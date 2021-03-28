@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Milestones
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Green Deal Open Collaboration
+    company: Reprex and collaborators
+    company_url: 'https://reprex.nl/'
+    location: the Hague, Netherlands
+    date_start: '2021-03-05'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        International Open Data Day 2021:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * We organized the [only event](https://reprex.nl/talk/reprex-open-data-day-2021/) in the Netherlands
+        * Decided to start an open collaboration on [music](https://music.dataobservatory.eu/) and [climate change](https://netzero.dataobservatory.eu/).
         
-  - title: Professor
-    company: University X
+  - title: Trustworthy AI PPP 
+    company: NLAIC + EU AI Alliance
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: the Netherlands
+    date_start: '2021-02-16'
+    date_end: ''
+    description: Joined the Dutch & the European AI PPPs.
 ---
