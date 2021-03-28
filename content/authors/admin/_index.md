@@ -56,7 +56,7 @@ Climate change and environmental degradation are an existential threat to Europe
 - economic growth is decoupled from resource use
 - no person and no place is left behind
 
-We believe that policies of the European Green deal must be created in a transparent process based on evidence. Our data observatory is a competing submission in the EU Datathon 2021 created in an open collaboration.  Our aim is to support the introduction of Open Policy Analysis standards with open data, open-source software and research automation. 
+Our data observatory is competing in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon). We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
 
 {{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: [data curation](/service/data-curation/), [open data access](/service/open-data/), [survey harmonization](/software/retroharmonize/), [reproducible research](/service/research/) and validated [trustworthy AI applications](/service/trustworthy-ai/).
 
