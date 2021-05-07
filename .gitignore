@@ -7,3 +7,7 @@ public/
 jsconfig.json
 node_modules/
 .Rproj.user
+
+
+# Artefacts
+.DS_Store
