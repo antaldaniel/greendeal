@@ -15,8 +15,8 @@ role: Contributor, data science and software engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Reprex B.V.
-  url: "https://dataobservatory.eu/"
+- name: Icebreaker One
+  url: "https://icebreakerone.org/mission/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include open source, reproducible research, climate change.
