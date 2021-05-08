@@ -1,10 +1,15 @@
 ---
 # Literal : is not allowed here
-title: Make Coal History
-subtitle: Mapping Coal Mining Regions
+title: Is Drought Risk Uninsurable?
+subtitle: An open data case study for Belgium
 
 # Summary for listings and search engines
-summary: We find it difficult to imagine a path to net zero emissions that includes the use coal as a fuel. We would like to map communities in the world that still depend on coal mining.
+summary: We are investigating whether climate data from integrated
+    climate models might be harnessed to predict medium- to longer-term risk
+    profiles on a spatially distributed basis. Urban planners, real estate
+    promoters, individual households and governments will need to rely on
+    such predictions to better adapt to climate change and reverse some of
+    the earlier policy choices we mentioned.
  
 # Link this post with a project
 projects: [mitigation]
@@ -24,8 +29,8 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Balmain Coal Mine in New South Wales, Australia in 1950 (from the [State Library of New South Wales ](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=31753)'
-  focal_point: ""
+  caption: 'Flood by [nickrad](https://pxhere.com/en/photographer/2914411)'
+  focal_point: "bottom"
   placement: 2
   preview_only: false
 
@@ -82,7 +87,7 @@ deviations of the current climatic balance (precipitation minus
 evapotranspiration potential) in the long run and is presented on a
 monthly basis. As the SPEI in this form is more predictive for flood
 risk, we simply inverted the index to suggest a measure of drought
-risk[1]..
+risk[^1].
 
 Readers familiar with the “Kingdom by the sea” will remark that Belgium
 cannot possibly have a lack of precipitation. It rains more than the
@@ -138,7 +143,7 @@ The match between the (inverted) SPEI and total net income is less than
 perfect. Some of the areas most at risk coincide with the highest-income
 communities, but other threatened communities are low-income by Belgian
 standards. The actual risk awareness and the financial capacity to solve
-the problem are again only weakly correlated.2[2]
+the problem are again only weakly correlated.^[2]
 
 ## Correlation
 
@@ -223,7 +228,7 @@ insurance premia may well lead to underinsurance in poorer areas that is
 severe drought will bankrupt farmers in such areas, eventually regional
 or national government will be forced to bail them out.
 
-The other extreme approach, i.e. leaving the climate-change related
+The other extreme approach, i.e., leaving the climate-change related
 damages entirely to the taxpayer, therefore does not seem feasible
 either with climate awareness and local income tax base only weakly
 correlating with the drought patterns. In addition, drought of course
@@ -289,7 +294,7 @@ Vicente-Serrano, Sergio M, Santiago Beguerı́a, and Juan I López-Moreno.
 Standardized Precipitation Evapotranspiration Index.” *Journal of
 Climate* 23 (7): 1696–1718.
 
-[1] As a standardized variate, SPEI can be compared across space and
+[^1]: As a standardized variate, SPEI can be compared across space and
 time. The original calculation of SPEI is based on the FAO-56
 Penman-Monteith method. Other relevant indicators might consider the
 soil composition for example: clay and lime soils tend to be more
@@ -299,5 +304,5 @@ be targeted to, say, income levels as well - or alternatively to real
 estate prices. See (Beguerı́a et al. 2014; Vicente-Serrano, Beguerı́a, and
 López-Moreno 2010)
 
-[2] We measured financial capacity with several tax and income
+[^2]: We measured financial capacity with several tax and income
 statistics, see (Statbel 2020).
