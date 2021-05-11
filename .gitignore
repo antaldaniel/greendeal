@@ -7,6 +7,7 @@ public/
 jsconfig.json
 node_modules/
 .Rproj.user
+.Rhistory
 
 
 # Artefacts
