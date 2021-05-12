@@ -70,7 +70,7 @@ email: "milos.agathon@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - contributors
+  - data curators
 ---
 
 Milos Popovic is a social scientist and data science and visualization expert at [Leiden University](https://milosp.infol/). He is the author of several scholarly papers on international security as well as over a few hundred original maps and shapefiles. Over the last decade, he has delivered products and training to stakeholders at Columbia University, Arizona State University, University of Toronto, Boston University & Leiden University.

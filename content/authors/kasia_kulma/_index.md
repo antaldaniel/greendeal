@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- contributors
+- developers
 ---
 
 Kasia is an experienced data scientist consultant and open-source contributor. She focuses her efforts on bringing together open-source technology and data in fighting climate change and speeding up the race to net-zero.   

@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - contributors
+  - data curators
 ---
 
 Karel Volckaert is a civil engineer, financial expert and consultant. He is contributing with policy use cases and policy analysis based on our maps and datasets.

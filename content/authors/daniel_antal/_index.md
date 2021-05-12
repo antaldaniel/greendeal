@@ -70,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- contributors
+- developers
 ---
 
 Daniel Antal is an experienced data scientist and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations. Applying reproducible scientific methods, we are building open collaborations in the creative sectors to build trustworthy, ethical AI solutions, validate commercial AI and use big data for the benefit of small enterprises.  With a 20 years of experience in management consultancy he applies a thoroughly professional approach based in economics, finance in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
