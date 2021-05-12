@@ -77,10 +77,8 @@ of drought risk - as measured by a climate indicator known as the
 [standardised recipitation-evapotranspiration
 index](http://sac.csic.es/spei/map/maps.html).
 
-<img src="belgium_spei_2018.png" alt="Actual drying soil" width="50%" />
-<p class="caption">
-Actual drying soil
-</p>
+
+{{< figure src="/img/flood-risk/belgium_spei_2018.png" caption="Actual drying soil." numbered="true" >}}
 
 This SPEI index, measured as a standardized variate, shows the
 deviations of the current climatic balance (precipitation minus
@@ -119,10 +117,7 @@ Of note is that concern for climate change effects follows regional,
 linguistic and other patterns. The map in particular suggests the
 Belgian provinces as markers for awareness.
 
-<img src="belgium_response_2018.png" alt="Perception of likely drought" width="50%" />
-<p class="caption">
-Perception of likely drought
-</p>
+{{< figure src="/img/flood-risk/belgium_response_2018.png" caption="Perception of likely drought." numbered="true" >}}
 
 ## Financial Capacity to Pay for Insurance
 
@@ -134,10 +129,7 @@ looks for local, regional or national mitigation strategies, the
 income/tax base might be an appropriate benchmark to test for financial
 capacity.
 
-<img src="belgium_income_2018.png" alt="Financial capacity to mitigate drought risk." width="50%" />
-<p class="caption">
-Financial capacity to mitigate drought risk.
-</p>
+{{< figure src="/img/flood-risk/belgium_income_2018.png" caption="Financial capacity to mitigate drought risk." numbered="true" >}}
 
 The match between the (inverted) SPEI and total net income is less than
 perfect. Some of the areas most at risk coincide with the highest-income
@@ -149,10 +141,7 @@ the problem are again only weakly correlated.^[2]
 
 Let’s have a look at the variables on `NUTS3` level:
 
-<img src="var-cor-1.png" alt="Correlation of the variables" width="50%" />
-<p class="caption">
-Correlation of the variables
-</p>
+{{< figure src="/img/flood-risk/var-cor-1.png" caption="Correlation of the variables." numbered="true" >}}
 
 -   `Average SPEI`, which is a measure of increasing humidity, is
     negatively correlated with `dry` that we defined as `-1 x avg_spei`.
@@ -167,13 +156,13 @@ Correlation of the variables
     possible explanation is that the year before the survey was not an
     unusual period, it fit very well with the 2016-2020 trend.
 -   Worries about extreme weather conditions are correlated with each
-    other – i.e. some part of the population (concentrated
+    other – i.e., some part of the population (concentrated
     geographically) is far more concerned with climate change than
     others.
 
-The same on LAU level:
+The same on municipality (local administrative unit) level:
 
-<img src="cor-lau-1.png" width="50%" />
+{{< figure src="/img/flood-risk/cor-lau-1.png" caption="Correlation on the level of municipalities." numbered="true" >}}
 
 The correlations with opinion polling data are a little bit distorted,
 because the data is on `NUTS2`, and to bring it down to `NUTS3` or `LAU`

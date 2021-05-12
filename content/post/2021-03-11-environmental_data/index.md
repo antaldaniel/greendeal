@@ -7,13 +7,11 @@ subtitle: Harmonizing sub-national geographical information to join individual a
 summary: Using sub-national geographical information, we can connect air pollution measurements and satellite images of light pollution or deforestration with social and economic indicators, and even individual opinion polling data.
  
 # Link this post with a project
-projects: []
+projects: ['mitigation']
 
 # Date published
 date: "2021-03-11T00:00:00Z"
 
-# Date updated
-lastmod: "2021-03-11T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -24,12 +22,13 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Deforestration is a key factor in carbon emission, because trees store so much carbon. Any path to net zero carbon emission requires a vast re-forestration of the Earth.'
+  caption: Deforestration is a key factor in carbon emission, because trees store so much carbon. Any path to net zero carbon emission requires a vast re-forestration of the Earth.
   focal_point: Center
   placement: 2
   preview_only: true
 
 authors:
+- daniel_antal
 - milos_popovic
 
 tags:
@@ -73,7 +72,9 @@ packages we could work with any nation’s or larger regions data. In
 fact, we would like to invite contributors with greater knowledge of
 reliable data sources from all continents.
 
-<img src="blogpost_pm10_pm25_eur.png" alt="Our joined dataset allows hypothesis testing on how much people's perception and attitudes to environmental degradation depends on the quality of the environment that surrounds them." width="1200" />
+<img src="blogpost_pm10_pm25_eur.png" alt="" width="1200" />
+
+{{< figure src="/img/belgium-flood-risk/blogpost_pm10_pm25_eur.png" caption="Our joined dataset allows hypothesis testing on how much people's perception and attitudes to environmental degradation depends on the quality of the environment that surrounds them." numbered="true" >}}
 
 <p class="caption">
 Our joined dataset allows hypothesis testing on how much people’s
