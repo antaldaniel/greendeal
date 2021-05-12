@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- contributors
+- project contributors
 ---
 
 Annette is a digital strategist and product marketer with experience working with startup tech companies to develop tailored marketing and communication programs to win new business. She is passionate about data science, creative industries, and emerging technology.
