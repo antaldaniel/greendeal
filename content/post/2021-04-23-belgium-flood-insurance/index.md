@@ -58,8 +58,8 @@ to rupture. What adds insult to injury is that insurers appear unwilling
 to pay for damages: these climate-related risks simply did not feature
 in insurance policies made up decades ago. The public and the media have
 called upon the secretary of state responsible for consumer protection
-to come up with a solution. (Download this document in
-[pdf](Belgium-blogpost.pdf))
+to come up with a solution. (Download this 
+document in {{% staticref "documents/Belgium-flood-risk-open-data.pdf" "newtab" %}}pdf{{% /staticref %}}.)
 
 The Belgian insurance sector and government are currently investigating
 how to address the ecological and financial issue. Should the risk
