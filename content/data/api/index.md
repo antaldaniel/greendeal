@@ -2,9 +2,7 @@
 title: API
 summary: Get data from the Green Data Observatory via our API
 tags:
-- psi
-- open-gov
-- foi
+- api
 date: "2021-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

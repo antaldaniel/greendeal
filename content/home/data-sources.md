@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 29
+weight: 28
 
 title: Data Sources
 subtitle: 'Where we get the raw data, how we process it, validate it, and increase its quality.'
@@ -25,6 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
+  - name: API
+    tag: api
   - name: PSI, FOI and open gov
     tag: open-gov
   - name: Open Science
