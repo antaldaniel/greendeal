@@ -1,6 +1,6 @@
 ---
-title: Make Coal History
-summary: Mapping coal mining communities
+title: Data Sharing
+summary: Data altruismm, sharing, and collaborative data resources.
 tags:
 - coal-mining
 date: "2021-03-16T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2021-03-16T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Balmain Coal Mine in New South Wales, Australia in 1950 (from the [State Library of New South Wales ](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=31753)
+  caption: 
   focal_point: Smart
 
 links:
