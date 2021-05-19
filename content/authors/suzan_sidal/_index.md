@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- project contributors
+- service development team
 ---
 
 Suzan is a security consultant working on digitalisation, good governance and related data strategies in the European Union. She is a data enthusiast and advocates for more accountability and responsibility of open data usage in public administration.  

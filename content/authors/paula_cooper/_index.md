@@ -53,7 +53,7 @@ email: "phmc1297@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - project contributors
+  - service development team
 ---
 
 Paula Cooper is a contributor to the open-source R packages necessary for our data observatories. She is particularly interested in further developing the [retroharmonize](https://retroharmonize.dataobservatory.eu/) package to include new countries from Latin America. 
