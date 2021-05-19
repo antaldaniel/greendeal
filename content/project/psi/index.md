@@ -1,9 +1,9 @@
 ---
-title: Make Coal History
-summary: Mapping coal mining communities
+title: Open Government Data
+summary: Public-sector information re-use and freedom of information
 tags:
 - coal-mining
-date: "2021-03-16T00:00:00Z"
+date: "2021-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,12 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-We find it difficult to imagine a path to net zero emissions that includes the use coal as a fuel. We would like to map communities in the world that still depend on coal mining.
-
-Data curated by Milos
- 
-`What?`:  We put coal mining areas on the global map?
-`Why?`:  It allows us to connect coal mining to opinions about climate change and socio-economic indicators of communities.
-`Use cases`:  Understanding how many people need an alternative to living from coal mining.  Political dynamics of accepting climate change policies and individual climate action. 
-`Skills needed`: Knowing where coal is mined in your country. 
-`How can you contribute`: <Milos write this up>
+In the EU, open data is governed by the [Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024). It entered into force on 16 July 2019. It replaces the [Public Sector Information Directive](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098), also known as the *PSI Directive* which dated from 2003 and was subsequently amended in 2013.
