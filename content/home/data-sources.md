@@ -10,7 +10,7 @@ headless: true
 weight: 29
 
 title: Data Sources
-subtitle: 'See what we are doing, why we are doing it, and how you can contribute.'
+subtitle: 'Where we get the raw data, how we process it, validate it, and increase its quality.'
 
 content:
   # Page type to display. E.g. project.
