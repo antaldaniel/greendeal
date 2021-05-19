@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 28
 
-title: Data Sources
-subtitle: 'Where we get the raw data, how we process it, validate it, and increase its quality.'
+title: Data
+subtitle: 'API to our data, our sources, how we process and validate it, how we increase its quality.'
 
 content:
   # Page type to display. E.g. project.
