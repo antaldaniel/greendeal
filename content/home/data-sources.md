@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: PSI
-    tag: PSI
+  - name: PSI, FOI and open gov
+    tag: open-gov
   - name: Open Science
     tag: open-science
   - name: Data Sharing

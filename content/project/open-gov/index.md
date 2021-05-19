@@ -2,14 +2,16 @@
 title: Open Government Data
 summary: Public-sector information re-use and freedom of information
 tags:
-- coal-mining
+- psi
+- open-gov
+- foi
 date: "2021-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Balmain Coal Mine in New South Wales, Australia in 1950 (from the [State Library of New South Wales ](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=31753)
+  caption: 
   focal_point: Smart
 
 links:
