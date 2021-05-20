@@ -15,7 +15,7 @@ role: Coordinator, policy use cases
 
 # Organizations/Affiliations
 organizations:
-  - name: Your Affiliation
+  - name: Volunteer
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - data curators
+  - service development team
 ---
 
 Maaike is a policy contributor who brings together climate policy data users and our open-source developer team to build evidence-based useful cases on local, national, and international level. She incorporates sustainability into her own life and is passionate about communicating the importance of this open collaboration on the path to net zero carbon emissions.
