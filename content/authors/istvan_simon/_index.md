@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Reproducible Business Workflows
+role: Data curator, climate risk management
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
   url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in automating workflows on the basis of reproducible research principles from replication till audit.
+bio: I am an actuary and I am interested in managing climate risks.
 
 topics:
 - Business Development
@@ -28,9 +28,9 @@ topics:
 
 education:
   courses:
-  - course: EMBA Candidate 
+  - course: EMBA  
     institution: Rotterdam School of Management
-    year: 2019-2021
+    year: 2021
   - course: M.Sc. Actuary Science
     institution: Corvinus University of Budapest
     year: 2005
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- project contributors
+- data curators
 ---
 
-Istvan is an experienced technology entrepreneur venturing new digital solutions and business models. Before that he was a consulting actuary for a decade with large and smaller clients in Northern, Western and Eastern Europe. His business understanding paired with his highly quantitative background and programming skills make him able to help our business and research partners turn their data workflows more automated, reproducible, effective and efficient. Istvan follows the [Code of Ethics of the Hungarian Actuarial Society](http://actuary.hu/weblap2/wp-content/uploads/Etikai-Szabalyzat-20161111-clean.pdf).
+Istvan is an experienced technology entrepreneur venturing new digital solutions and business models. Before that he was a consulting actuary for a decade with large and smaller clients in Northern, Western and Eastern Europe. He has participated in the validation journey of our automated data observatory.
