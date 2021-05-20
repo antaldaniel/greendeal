@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - developers
+  - data curators
 ---
 
 Pyry Kantanen is a social science student and R developer. He is contributing with data curation and R package testing.
