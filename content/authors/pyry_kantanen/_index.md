@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Contributor
+role: R package testing and data curation.
 
 # Organizations/Affiliations
 organizations:
