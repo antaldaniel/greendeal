@@ -13,7 +13,7 @@ subtitle = "Contributors of open data, open-source software, maps, organization 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["developers", "data curators", "service development team"]
+  user_groups = ["developers", "data curators", "service development team", "institutional partners"]
 
 [design]
   # Show user's social networking links? (true/false)

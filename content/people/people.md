@@ -19,6 +19,7 @@ user_groups:
   - developers
   - data curators
   - service development team
+  - institutional partners
 design:
   show_interests: false
   show_role: true
