@@ -14,6 +14,8 @@ organizations:
   url: https://reprex.nl/
 - name: rOpenGov
   url: https://ropengov.org/
+- name: Yes!Delft AI+Blockchain Validation Lab
+  url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,7 +30,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GreemDealObs
+  link: https://twitter.com/GreenDealObs
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu
@@ -59,6 +61,5 @@ Our automated observatory participates in the [EU Datathon 2021](https://op.euro
 {{< icon name="hand-point-right" pack="fas" >}} Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}}.
-
 
 {{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
