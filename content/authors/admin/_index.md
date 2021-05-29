@@ -12,8 +12,8 @@ role: Automated data observatory
 organizations:
 - name: Reprex
   url: https://reprex.nl/
-- name: Yes!Delft
-  url: https://yesdelft.nl/
+- name: rOpenGov
+  url: https://ropengov.org/
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/GreemDealObs
 - icon: github
   icon_pack: fab
-  link: https://github.com/antaldaniel/reprex
+  link: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/78556699
@@ -53,8 +53,8 @@ highlight_name: false
 Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the [European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en) strategic plan. It aims to make the EU's economy sustainable by turning climate and environmental challenges into opportunities, and making the transition just and inclusive for all.
 
 Our automated observatory participates in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge #1. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
+
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/presentations/GDO_Datathon_Submission_2021.pdf" "newtab" >}}competition presentation{{< /staticref >}}.
- 
 
 {{< icon name="hand-point-right" pack="fas" >}} Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
 
