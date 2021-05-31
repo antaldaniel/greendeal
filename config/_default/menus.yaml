@@ -28,8 +28,8 @@ main:
   - name: Talks
     url: '#talks'
     weight: 70
-  - name: Data API
-    url: 'https://api.greendeal.dataobservatory.eu/'
+  - name: API
+    url: 'http://api.greendeal.dataobservatory.eu'
     weight: 80
   - name: Contact
     url: '#contact'

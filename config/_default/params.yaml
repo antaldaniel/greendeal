@@ -14,9 +14,9 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
-twitter: 'dataandlyrics'
+org_name: 'Green Deal Data Observatory'
+description: 'Our automated observatory participates in the EU Datathon 2021 challenge #1. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. '
+twitter: 'GreenDealObs'
 
 # Contact (edit or remove options as required)
 
