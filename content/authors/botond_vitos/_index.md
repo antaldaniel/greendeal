@@ -19,7 +19,7 @@ organizations:
   url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a digital strategist and product marketer with a passion for data science, creative industries, and emerging technology.
+bio: Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures.
 
 topics:
 - Data engineering
