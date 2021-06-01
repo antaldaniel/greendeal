@@ -28,6 +28,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 70
+  - name: Data API
+    url: '#data'
+    weight: 79
   - name: Contact
     url: '#contact'
     weight: 80
