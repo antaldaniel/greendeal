@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/dataandlyrics
+  url: https://twitter.com/GreenDealObs
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-This is a placeholder for our API.
+Our API can be found temporarily on [api.greendeal.dataobservatory.eu](http://api.greendeal.dataobservatory.eu) and it allows access to our indicators and metadata in simple tables or in SQL queries.
