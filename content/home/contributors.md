@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Contributors"
-subtitle = "Contributors of open data, open-source software, maps, organization and public relations"
+title = "Contributors of the Green Deal Data Observatory"
+subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)."
 
 [content]
   # Choose which groups/teams of users to display.
