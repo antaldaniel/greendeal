@@ -19,7 +19,7 @@ organizations:
   url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures. He is responsible for our APIs.
+bio: Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures.
 
 topics:
 - Data engineering
@@ -45,7 +45,11 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/wongannette/#
+  link: https://www.linkedin.com/in/botondvitos/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/bvitos
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

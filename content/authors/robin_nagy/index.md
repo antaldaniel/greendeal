@@ -1,11 +1,11 @@
 ---
 # Display name
-title: 
+title: Robin Nagy
 name: Robin Nagy
 
 # Username (this should match the folder name)
 authors:
-- nagyrobin
+- robin_nagy
 
 # Is this the primary user of the site?
 superuser: false
