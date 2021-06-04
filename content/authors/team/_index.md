@@ -86,6 +86,11 @@ user_groups:
 
 - Make sure that you read the [Contributors Covenant](https://www.contributor-covenant.org/). You must make this [pledge](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. Participating in our data observatories requires everybody to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. It's better this way for you and for us!
 
-- Give users at least one social media account where they can get in touch with you (any of LinkedIn, Twitter, Academia, SSRN, Google Scholar, or even Facebook.)
+- Please, follow us on social media, it really helps us finding new users and showing that we are able to grow our ecosystem.
+  - [Green Deal Data Observatory on Linkedin](https://www.linkedin.com/company/78556699) and [Green Deal Data Observatory on Twitter](https://twitter.com/GreenDealObs)
+  - [Economy Data Observatory on Linkedin](https://www.linkedin.com/company/78562153) and [Economy Data Observatory on Twitter](https://twitter.com/GreenDealObs)
+  - [Digital Music Data Observatory on Linkedin](https://www.linkedin.com/company/reprexbv/) and [Digital Music Data Observatory on Twitter](https://twitter.com/dataandlyrics)
+  
+- Send us {{< icon name="download" pack="fas" >}}this text file {{< staticref "media/documents/bio_template.md" "newtab" >}}with your biography elements{{< /staticref >}}.
 
 - If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.
