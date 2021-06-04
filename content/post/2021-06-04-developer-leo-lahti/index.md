@@ -1,5 +1,5 @@
 +++
-title = "Creating Algorithmic Tools to Interpret and Communicate Oopen Data Efficiently"
+title = "Creating Algorithmic Tools to Interpret and Communicate Open Data Efficiently"
 subtitle = "Introducing Our Developers"
 date = 2021-06-04T10:00:00
 lastmod = 2021-06-04T10:00:00
@@ -56,7 +56,8 @@ Although there are a variety of open data sources available (and the numbers con
 
 The role of the professional network backing up the project, and the possibility of getting critical feedback and later adoption by the academic communities will support the efforts. Transparency of the data harmonization operations is the key to credibility, and will be further supported by concrete benchmarks that highlight the critical differences in drawing conclusions based on original sources versus the harmonized high-quality data sets.
 
-{{< figure src="/media/img/developers/greendeal_and_zenodo.png" caption="" numbered="true" >}
+{{< figure src="/media/img/observatory_screenshots/greendeal_and_zenodo.png" caption="We need to get critical feedback and later adoption by the academic communities." numbered="true" >}}
+
 
 **How we can ensure the long-term sustainability of the efforts?**
 
