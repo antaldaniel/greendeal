@@ -76,4 +76,4 @@ user_groups:
   - join us
 ---
 
-Please tell us 3-5 sentences about yourself, you interestes. See examples of curators of the  [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors), the [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) and the [Digital Music Observatory](https://music.dataobservatory.eu/#contributors)
+Please tell us 3-5 sentences about yourself, you interestes. See examples of curators of the  [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors), the [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) and the [Digital Music Observatory](https://music.dataobservatory.eu/#contributors). Please also send us a profile picture that is at least 400x400 pixels large, and not to narrowly cut, so that it fits with our circular template (see other contributor profiles.)

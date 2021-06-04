@@ -45,6 +45,9 @@ Joining the challenge was a natural development based on our overall activities 
 
 Regarding open government data, one of my favorites is not a single data source but a data representation standard. The [px format](https://www.scb.se/en/services/statistical-programs-for-px-files/#:~:text=PX%20is%20a%20standard%20format,and%20data.) is widely used by statistical authorities in various countries, and this has allowed us to create R tools that allow the retrieval and analysis of official statistics from many countries across Europe, spanning dozens of statistical institutions. Standardization of open data formats allows us to build robust algorithmic tools for downstream data analysis and visualization.  Open government data is still too often shared in obscure, non-standard or closed-source file formats and this is creating significant bottlenecks for the development of scalable and interoperable AI and machine learning methods that can harness the full potential of open data.
 
+{{< figure src="/media/img/developers/PxWeb.png" caption="Regarding open government data, one of my favorites is not a single data source but a data representation standard, the Px format." numbered="true" >}}
+
+
 **From your perspective, what do you see being the greatest problem with open data in 2021?**
 
 Although there are a variety of open data sources available (and the numbers continue to increase), the availability of open algorithmic tools to interpret and communicate open data efficiently is lagging behind. One of the greatest challenges for open data in 2021 is to demonstrate how we can maximize the potential of open data by designing smart tools for open data analytics.
@@ -52,6 +55,8 @@ Although there are a variety of open data sources available (and the numbers con
 **What can our automated data observatories do to make open data more credible in the European economic policy community and be accepted as verified information?** 
 
 The role of the professional network backing up the project, and the possibility of getting critical feedback and later adoption by the academic communities will support the efforts. Transparency of the data harmonization operations is the key to credibility, and will be further supported by concrete benchmarks that highlight the critical differences in drawing conclusions based on original sources versus the harmonized high-quality data sets.
+
+{{< figure src="/media/img/developers/greendeal_and_zenodo.png" caption="" numbered="true" >}
 
 **How we can ensure the long-term sustainability of the efforts?**
 
