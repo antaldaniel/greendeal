@@ -90,9 +90,9 @@ user_groups:
   - [Economy Data Observatory on Linkedin](https://www.linkedin.com/company/78562153) and [Economy Data Observatory on Twitter](https://twitter.com/GreenDealObs)
   - [Digital Music Data Observatory on Linkedin](https://www.linkedin.com/company/reprexbv/) and [Digital Music Data Observatory on Twitter](https://twitter.com/dataandlyrics)
 
-- Send us {{< icon name="download" pack="fas" >}} {{< staticref "media/documents/bio_template.md" "newtab" >}}this text file{{< /staticref >}} with your biography elements.
-
 - If you write code in R or Python, connect to us via Github. 
+
+- Send us {{< icon name="download" pack="fas" >}} {{< staticref "media/documents/bio_template.md" "newtab" >}}this text file{{< /staticref >}} with your biography elements. Best if you fill it out with Notepad, TextEdit, Vim or other clean text editor, but you can also send it back as an rtf file.
 
 - If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.
 
