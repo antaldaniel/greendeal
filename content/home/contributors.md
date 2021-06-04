@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Contributors of the Green Deal Data Observatory"
-subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)."
+subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)! More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/)."
 
 [content]
   # Choose which groups/teams of users to display.
