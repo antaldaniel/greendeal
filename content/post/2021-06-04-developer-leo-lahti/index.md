@@ -1,11 +1,11 @@
 +++
-title = "The Green Deal Data Observatory is Contesting the EU Datathon 2021 Prize"
+title = "Creating Algorithmic Tools to Interpret and Communicate Oopen Data Efficiently"
 subtitle = "Introducing Our Developers"
 date = 2021-06-04T10:00:00
 lastmod = 2021-06-04T10:00:00
 draft = false
 
-authors = ["Leo Lahti", "Daniel Antal", "Annette Wong"]
+authors = ["leo_lahti"]
 
 tags = ["open-data", "open-science", "reproducible research", "open government"]
 
@@ -30,6 +30,8 @@ projects = ["eu-datathon_2021"]
 **As a developer at rOpenGov, what type of data do you usually use in your work?**
 
 As an academic data scientist whose research focuses on the development of general-purpose algorithmic methods, I work with a range of applications from life sciences to humanities. Population studies play a big role in our research, and often the information that we can draw from public sources - geospatial, demographic, environmental - provides invaluable support. We typically use open data in combination with sensitive research data but some of the research questions can be readily addressed based on open data from statistical authorities such as Statistics Finland or Eurostat.
+
+{{< figure src="/media/img/partners/rOpenGov-intro.png" caption="" numbered="true" >}}
 
 **In your ideal data world, what would be the ultimate dataset, or datasets that you would like to see in the Music Data Observatory?**
 
@@ -57,4 +59,4 @@ The extent of open data space is such that no single individual or institution c
 
 ## Join us
 
-*Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
+*Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
