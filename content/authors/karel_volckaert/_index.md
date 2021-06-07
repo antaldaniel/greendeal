@@ -8,15 +8,15 @@ authors:
   - karel_volckaert
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Contributor, geographical policy use cases 
+role: Climate policy and mitigation data curator 
 
 # Organizations/Affiliations
 organizations:
   - name: riverrun
-    url: "https://milosp.info/"
+    url: "http://riverrun.be/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests encompass quantitative social science, political analysis and data visualization.
