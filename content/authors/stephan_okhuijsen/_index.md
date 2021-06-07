@@ -65,4 +65,4 @@ user_groups:
   - data curators
 ---
 
-Stephan Okhuijsen is the founder of [Datagraver](), a small company that uses (open) data to inform a wider audience, sometimes through media, and helps organizations using (open) data to create valuable information. He has over 30 years of experience in IT and has been active for over 15 years in the open data movement in the Netherlands. As Datagraver he created several climate related vizualisations that have been picked up by some large media outlets all over the world.
+Stephan Okhuijsen is the founder of [Datagraver](authors/datagraver), a small company that uses (open) data to inform a wider audience, sometimes through media, and helps organizations using (open) data to create valuable information. He has over 30 years of experience in IT and has been active for over 15 years in the open data movement in the Netherlands. As Datagraver he created several climate related vizualisations that have been picked up by some large media outlets all over the world.
