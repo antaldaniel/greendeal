@@ -62,4 +62,4 @@ user_groups:
   - data curators
 ---
 
-Karel Volckaert is a civil engineer, financial expert and consultant. He is contributing with policy use cases and policy analysis based on our maps and datasets.
+Karel Volckaert is a civil engineer, financial expert and consultant. He is contributing with policy use cases and policy analysis based on our maps and datasets. Read Karel's introdcution, *Credibility is Enhanced Through Cross Links Between Different Data from Different Domains*, [here](/post/2021-06-08-data-curator-karel-volckaert/).
