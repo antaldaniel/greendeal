@@ -1,3 +1,6 @@
+# Please edit this with any text editor (Notepad, VIM, TextEdit)
+# If you use a Word or other text editor, save it as .rtf
+
 ---
 # Display name
 title: Your Name To Display
@@ -42,7 +45,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 # You should add at least ORCiD, LinkedIn, and preferably Twitter and Github.
 # You can delete what is not applicable.
-# Emial is not necessary
+# Email is not necessary
 # We prefer intant messaging on Keybase, but it is not mandatory.
 social:
 - icon: envelope
@@ -66,6 +69,15 @@ social:
 - icon: srrn
   icon_pack: ai
   link: https://hq.ssrn.com/Participant.cfm?rectype=edit&partID=<yourid>
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=<yourid>
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/author/246930/<yourid>
+- icon: researcherid
+  icon_pack: ai
+  link: http://www.researcherid.com/rid/<yourid>
 
 
 # Enter email to display Gravatar (not needed)
