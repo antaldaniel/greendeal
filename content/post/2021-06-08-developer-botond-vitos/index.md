@@ -3,7 +3,7 @@ title = "Developing an Open API is the Right Direction"
 subtitle = "Introducing Our Developers"
 date = 2021-06-07T20:00:00
 lastmod = 2021-06-07T20:00:00
-draft = fase
+draft = false
 
 authors = ["botond_vitos"]
 
