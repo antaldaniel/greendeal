@@ -54,7 +54,7 @@ The access and analysis of open data for the general public would make political
 
 Climate change is increasing people's exposure to heat. Extreme temperature events have been documented to be rising in frequency, duration, and magnitude over the world. The number of persons exposed to heatwaves grew by roughly 125 million between 2000 and 2016.
 
-{{< figure src="/media/img/blogpost_2021/photo-1618677064524-58aa3077d724.jpg" caption="Sydney by Marek Piwnicki [Unplash License](https://unsplash.com/license)" numbered="true" >}}
+{{< figure src="/media/img/blogposts_2021/photo-1618677064524-58aa3077d724.jpg" caption="Sydney by Marek Piwnicki [Unplash License](https://unsplash.com/license)" numbered="true" >}}
 
 **From your experience, what do you think the greatest problem with open data in 2021 will be?**
 
@@ -67,7 +67,7 @@ The use of open data should be transparent and meet high quality standards. If w
 
 Almost nothing is being done to help communities build the capability to analyze and implement open data without relying on technology. 
 
-{{< figure src="/media/img/observatory_screenshot/DMO_API_metadata_page.png" caption="Our API contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" caption="Our API contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
 
 This is a critical task that the our fledlging data Observatories, the [Digital Music Observatory](https://music.dataobservatory.eu/),  [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/) and [Economy Data Observatory](https://economy.dataobservatory.eu/), may be able to help with. Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable. 
 
