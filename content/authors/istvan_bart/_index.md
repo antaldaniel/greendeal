@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: climate policy data curator
+role: Climate policy data curator
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link:https://www.linkedin.com/in/istvanbart/
+  link: https://www.linkedin.com/in/istvanbart/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
