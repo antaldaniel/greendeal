@@ -43,7 +43,7 @@ Late spring and early summer time is, at least for me, defined by the Eurovision
 
 The challenge has, in my opinion, great potential in leading by example when it comes to open data access and reproducible research. Comparing data to oil is a common phrase but fitting in the sense that crude oil has to go through a number of steps and pipes before it becomes useful. Most users and especially policymakers appreciate ease-of-use of the finished product, but the quality of the product and the process must also be guaranteed somehow. Openness and peer-review practices are the best guarantors in the field of data, just as industrial standards and regulations are in the oil industry.
 
-{{< figure src="/media/img/observatory_screenshots/DMO_API_metadata_page.png" caption="We provide many layers of fully transparent quality control about the data we are placing in our data APIs and provide for our end-users." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" caption="We provide many layers of fully transparent quality control about the data we are placing in our data APIs and provide for our end-users." numbered="true" >}}
 
 ## Join us
 
