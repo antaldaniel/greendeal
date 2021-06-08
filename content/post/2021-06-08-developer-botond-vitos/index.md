@@ -7,9 +7,9 @@ draft = false
 
 authors = ["botond_vitos"]
 
-tags = ["open-data", "open-science", "trustworthy AI","listen-local", "musicology", "Bandcamp"]
+tags = ["open-data", "open-science", "trustworthy AI", "API"]
 
-summary = "New summary needed"
+summary = "I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction."
 
 projects = ["eu-datathon_2021", "listen-local"]
 
@@ -48,8 +48,6 @@ As my answer to the previous question suggests, my main concern is the developme
 ## Read More on Data & Lyrics
 
 - [Recommendation Systems: What can Go Wrong with the Algorithm?](https://dataandlyrics.com/post/2021-05-16-recommendation-outcomes/)
-- [Working With Localities and Location Tags](https://dataandlyrics.com/post/2021-04-14-bandcamp-librarian-2/)
-- [The Racist Music Algorithm](https://dataandlyrics.com/post/2020-10-30-racist-algorithm/)
 
 ## Join us
 
