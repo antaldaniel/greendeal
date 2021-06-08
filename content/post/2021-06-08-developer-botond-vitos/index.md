@@ -11,7 +11,7 @@ tags = ["open-data", "open-science", "trustworthy AI", "API"]
 
 summary = "I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction."
 
-projects = ["eu-datathon_2021", "listen-local"]
+projects = ["eu-datathon_2021"]
 
 # Featured image
 [image]
