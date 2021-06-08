@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: climate policy data curator
+role: Climate policy data curator
 
 # Organizations/Affiliations
 organizations:
