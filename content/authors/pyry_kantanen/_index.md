@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - data curators
+  - developers
 ---
 
-Pyry Kantanen is a social science student and R developer. He is contributing with data curation and R package testing.
+Pyry Kantanen is a social science student and R developer. He is contributing with data curation and R package testing. Read his introduction, *Comparing Data to Oil is a Cliché: Crude Oil Has to Go Through a Number of Steps and Pipes Before it Becomes Useful*, [here](/post/2021-06-07-data-curator-pyry-kantanen/).

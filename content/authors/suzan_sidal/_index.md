@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Contributor, Business Development
+role: Business Case Development & Service Design
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a security consultant and digital strategist with a passion for data management and emerging technologies for good governance.
-
 
 topics:
 - Good Governance
@@ -60,4 +59,4 @@ user_groups:
 - service development team
 ---
 
-Suzan is a security consultant working on digitalisation, good governance and related data strategies in the European Union. She is a data enthusiast and advocates for more accountability and responsibility of open data usage in public administration.  
+Suzan is a security consultant working on digitalisation, good governance and related data strategies in the European Union. She is a data enthusiast and advocates for more accountability and responsibility of open data usage in public administration. Read her, *We Need More Reliable Datasets on the Urban Heat Resilience and Disaster Risk Reduction*, [here](post/2021-06-07-introducing-suzan-sidal/)

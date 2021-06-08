@@ -7,7 +7,7 @@ draft = false
 
 authors = ["pyry_kantanen"]
 
-tags = ["open-data", "open-science", "reproducible research", "open government", "Eurovision", "musicology"]
+tags = ["open-data", "open-science", "reproducible research", "open government"]
 
 summary = "Many interesting phenomena are difficult to quantify in a meaningful way and writing a catchy song with international appeal is probably more an art than a science. Nevertheless that should not deter us from trying as music, too, is bound by certain rules and regularities that can be researched."
 
