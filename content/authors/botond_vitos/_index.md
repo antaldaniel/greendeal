@@ -17,6 +17,8 @@ role: Data scientists and developer
 organizations:
 - name: Reprex
   url: "https://reprex.nl/"
+- name: Dancecult
+  url: "https://dj.dancecult.net/index.php/dancecult"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures.
@@ -65,4 +67,4 @@ user_groups:
 - developers
 ---
 
-Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures. His past projects were focused on grassroots music scenes and alternative communities, and he is currently contributing to the development of our Demo Music Observatory and Listen Local initiatives. He is the production editor and art director of the peer reviewed journal Dancecult. He is taking care of our Data APIs and "big data" collection.
+Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures. His past projects were focused on grassroots music scenes and alternative communities, and he is currently contributing to the development of our [Demo Music Observatory](https://music.dataobservatory.eu/) and [Listen Local](https://listenlocal.community/) initiatives. He is the production editor and art director of the peer reviewed journal [Dancecult](https://dj.dancecult.net/index.php/dancecult). He is taking care of our Data APIs and "big data" collection. Read his introduction [here](https://music.dataobservatory.eu/post/2021-06-08-developer-botond-vitos/).
