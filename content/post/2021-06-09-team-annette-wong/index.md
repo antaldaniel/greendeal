@@ -51,11 +51,13 @@ This is a little silly but very recently I watched the 101 Dalmatians movie. Aft
 
 This information is interesting because it validates the idea of how culture influences consumer behavior. I think it’s really cool that we can measure cultural collisions and how it impacts the way we act, think, and respond.
 
-**What can our automated data observatories do to make open data more credible in the European economic policy community, or in the music business community more accepted? **
+**What can our automated data observatories do to make open data more credible in the European economic policy community, or in the music business community more accepted?**
 
 I believe that people, in general, appreciate and understand the importance of data. But, it can be overwhelming, sometimes scary, and intimidating to deal with (esp. in large quantities).
 
 However, I feel more people are open to the idea of using data and understand the value of leveraging data to share objective truths. Something that our automated data observatories can do is to provide more opportunities to educate and train data admirers that data is not scary, that it is accessible, and it is here to help uncover insights that can’t be immediately seen.
+
+{{< figure src="/media/img/observatory_screenshots/greendeal_and_zenodo.png" caption="Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository[Green Deal Data Observatory on Zenodo](https://zenodo.org/communities/greendeal_observatory/)" numbered="true" >}}
 
 ## Join us
 
