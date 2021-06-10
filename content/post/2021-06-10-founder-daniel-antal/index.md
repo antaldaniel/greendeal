@@ -41,7 +41,7 @@ Our [retroharmonize](https://retroharmonize.dataobservatory.eu/) and [regions](h
 
 **Is there a number or piece of information that recently surprised you? If so, what was it?**
  
-There were a few numbers that surprised me, and some of them were brought up by our observatory teams. Karel is talking about the fact that not all green energy is green at all: many hydropower stations contribute to the greenhouse effect and not reduce it. Annette brought up the growing interest in the [Dalmatian breed](/post/2021-06-09-team-annette-wong/) after the Disney *101 Dalmatians* movies, and it reminded me of the astonishing growth in interest for chess sets, chess tutorials, and platform subscriptions after the success of Netflix’s *The Queen’s Gambit*.
+There were a few numbers that surprised me, and some of them were brought up by our observatory teams. Karel is [talking](post/2021-06-08-data-curator-karel-volckaert/) about the fact that not all green energy is green at all: many hydropower stations contribute to the greenhouse effect and not reduce it. Annette brought up the growing interest in the [Dalmatian breed](/post/2021-06-09-team-annette-wong/) after the Disney *101 Dalmatians* movies, and it reminded me of the astonishing growth in interest for chess sets, chess tutorials, and platform subscriptions after the success of Netflix’s *The Queen’s Gambit*.
 
 {{< figure src="/media/img/blogposts_2021/queens_gambit_bloomberg.png" caption="*The Queen’s Gambit’ Chess Boom Moves Online By Rachael Dottle* on [bloomberg.com](https://www.bloomberg.com/graphics/2020-chess-boom/)" numbered="true" >}}
 
