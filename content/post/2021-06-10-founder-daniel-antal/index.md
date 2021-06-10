@@ -1,8 +1,8 @@
 +++
 title = "Open Data is Like Gold in the Mud Below the Chilly Waves of Mountain Rivers"
 subtitle = "Introducing Our Service Development Team"
-date = 2021-06-10T09:00:00
-lastmod = 2021-06-10T09:00:00
+date = 2021-06-10T07:00:00
+lastmod = 2021-06-10T07:00:00
 draft = false
 
 authors = ["daniel_antal"]
