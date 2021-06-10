@@ -2,7 +2,7 @@
 title = "Open Data is Like Gold in the Mud Below the Chilly Waves of Mountain Rivers"
 subtitle = "Introducing Our Service Development Team"
 date = 2021-06-10T07:00:00
-lastmod = 2021-06-10T07:00:00
+lastmod = 2021-06-10T09:00:00
 draft = false
 
 authors = ["daniel_antal"]
@@ -27,7 +27,7 @@ projects = ["eu-datathon_2021"]
 
 +++
 
-{{< figure src="/media/img/slides/gold_panning_slide_notitle.png" caption="Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine." numbered="true" >}
+{{< figure src="/media/img/slides/gold_panning_slide_notitle.png" caption="Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine." numbered="true" >}}
 
 **As the founder of the automated data observatories that are part of Reprex’s core activities, what type of data do you usually use in your day-to-day work?**
  
@@ -44,6 +44,10 @@ Our [retroharmonize](https://retroharmonize.dataobservatory.eu/) and [regions](h
 There were a few numbers that surprised me, and some of them were brought up by our observatory teams. Karel is talking about the fact that not all green energy is green at all: many hydropower stations contribute to the greenhouse effect and not reduce it. Annette has been talking about the growing interest in the Dalmatian breed after the Disney 101 Dalmatians movies, and it reminded me of the astonishing growth in interest for chess sets, chess tutorials, and platform subscriptions after the success of Netflix’s The Queen’s Gambit.
 
 Annette is talking about the importance of cultural influencers, and on that theme, what could be more exciting that Netflix’s biggest success so far is not a detective series or a soap opera but a coming-of-age story of a female chess prodigy. Intelligence is sexy, and we are in the intelligence business. 
+
+{{< figure src="/media/img/slides/queens_gambit_bloomberg.png" caption="*The Queen’s Gambit’ Chess Boom Moves Online By Rachael Dottle* on [bloomberg.com](https://www.bloomberg.com/graphics/2020-chess-boom/)" numbered="true" >}
+
+
 
 But to tell a more serious and more sobering number, I recently read with surprise that there are more people smoking cigarettes on Earth in 2021 than in 1990. Population growth in developing countries replaced the shrinking number of developed country smokers. While I live in Europe, where smoking is strongly declining, it reminds me that Europe’s population is a small part of the world. We cannot take for granted that our home-grown experiences about the world are globally valid.
 
@@ -67,7 +71,7 @@ I have been involved with open data policies since 2004. The problem has not cha
  
 Most of our work is in research automation, and a very large part of our efforts are aiming to reverse engineer missing descriptive and processing metadata. In a way, I like to compare ourselves to the working method of the open-source intelligence platform [Bellingcat](https://www.bellingcat.com). They were able to use publicly available, [scattered information from satellites and social media](https://www.bellingcat.com/category/resources/case-studies/?fwp_tags=mh17) to identify each member of the Russian military company that illegally entered the territory of Ukraine and shot down the Malaysian Airways MH17 with 297, mainly Dutch, civilians on board. 
 
-{{< figure src="/media/img/slides/automated_observatory_value_chain.jpg" caption="" numbered="true" >}
+{{< figure src="/media/img/slides/automated_observatory_value_chain.jpg" caption="" numbered="true" >}}
 
 We do not do such investigations but work very similarly to them in how we are filtering through many data sources and attempting to verify them when their descriptions and processing history is unknown. In the last years, we were able to estore the metadata of many European and African open data surveys, economic impact, and environmental impact data, or many other open data that was lying around for many years without users. 
 
