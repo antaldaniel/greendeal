@@ -74,7 +74,6 @@ Most of our work is in research automation, and a very large part of our efforts
 
 We do not do such investigations but work very similarly to them in how we are filtering through many data sources and attempting to verify them when their descriptions and processing history is unknown. In the last years, we were able to estore the metadata of many European and African open data surveys, economic impact, and environmental impact data, or many other open data that was lying around for many years without users. 
 
-
 Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine. I think we will come to as surprising and strong findings as Bellingcat, but we are not focusing on individual events and stories, but on social and environmental processes and changes.
 
 {{< figure src="/media/img/observatory_screenshots/greendeal_and_zenodo.png" caption="Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository[Green Deal Data Observatory on Zenodo](https://zenodo.org/communities/greendeal_observatory/)" numbered="true" >}}
