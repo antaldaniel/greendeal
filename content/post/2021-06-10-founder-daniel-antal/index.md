@@ -45,7 +45,7 @@ There were a few numbers that surprised me, and some of them were brought up by 
 
 Annette is talking about the importance of cultural influencers, and on that theme, what could be more exciting that Netflix’s biggest success so far is not a detective series or a soap opera but a coming-of-age story of a female chess prodigy. Intelligence is sexy, and we are in the intelligence business. 
 
-{{< figure src="/media/img/slides/queens_gambit_bloomberg.png" caption="*The Queen’s Gambit’ Chess Boom Moves Online By Rachael Dottle* on [bloomberg.com](https://www.bloomberg.com/graphics/2020-chess-boom/)" numbered="true" >}}
+{{< figure src="/media/img/blogposts_2021/queens_gambit_bloomberg.png" caption="*The Queen’s Gambit’ Chess Boom Moves Online By Rachael Dottle* on [bloomberg.com](https://www.bloomberg.com/graphics/2020-chess-boom/)" numbered="true" >}}
 
 But to tell a more serious and more sobering number, I recently read with surprise that there are [more people smoking cigarettes](https://www.theguardian.com/society/2021/may/27/number-of-smokers-has-reached-all-time-high-of-11-billion-study-finds) on Earth in 2021 than in 1990. Population growth in developing countries replaced the shrinking number of developed country smokers. While I live in Europe, where smoking is strongly declining, it reminds me that Europe’s population is a small part of the world. We cannot take for granted that our home-grown experiences about the world are globally valid.
 
@@ -57,6 +57,8 @@ But to tell a more serious and more sobering number, I recently read with surpri
 
 The real power lies in designing a data collection program. A consistent data collection program usually requires an investment that only powerful organizations, such as government agencies, very large corporations, or the richest universities can afford. You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling.
  
+ 
+{{< figure src="/media/img/slides/value_added_from_automation.png" caption="You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling." numbered="true" >}}
 
 **From your perspective, what do you see being the greatest problem with open data in 2021?**
  
