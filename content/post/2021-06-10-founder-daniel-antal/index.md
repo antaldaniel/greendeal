@@ -70,7 +70,7 @@ I have been involved with open data policies since 2004. The problem has not cha
  
 Most of our work is in research automation, and a very large part of our efforts are aiming to reverse engineer missing descriptive and processing metadata. In a way, I like to compare ourselves to the working method of the open-source intelligence platform [Bellingcat](https://www.bellingcat.com). They were able to use publicly available, [scattered information from satellites and social media](https://www.bellingcat.com/category/resources/case-studies/?fwp_tags=mh17) to identify each member of the Russian military company that illegally entered the territory of Ukraine and shot down the Malaysian Airways MH17 with 297, mainly Dutch, civilians on board. 
 
-{{< figure src="/media/img/slides/automated_observatory_value_chain.jpg" caption="" numbered="true" >}}
+{{< figure src="/media/img/slides/automated_observatory_value_chain.jpg" caption="How we create value for research-oriented consultancies, public policy institutes, university research teams, journalists or NGOs." numbered="true" >}}
 
 We do not do such investigations but work very similarly to them in how we are filtering through many data sources and attempting to verify them when their descriptions and processing history is unknown. In the last years, we were able to estore the metadata of many European and African open data surveys, economic impact, and environmental impact data, or many other open data that was lying around for many years without users. 
 
