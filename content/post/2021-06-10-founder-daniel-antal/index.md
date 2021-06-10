@@ -53,7 +53,6 @@ But to tell a more serious and more sobering number, I recently read with surpri
  
 [FiveThirtyEight.com](https://fivethirtyeight.com/) had a wonderful podcast series, produced by Jody Avirgan, called *What’s the Point*.  It is exactly about good and bad uses of data, and each episode is super interesting. Maybe the most memorable is [Why the Bronx Really Burned](https://fivethirtyeight.com/features/why-the-bronx-really-burned/). New York City tried to measure fire response times, identify redundancies in service, and close or re-allocate fire stations accordingly. What resulted, though, was a perfect storm of bad data: The methodology was flawed, the analysis was rife with biases, and the results were interpreted in a way that stacked the deck against poorer neighborhoods.
 
-
 It is similar to many stories told in a very compelling argument by Catherine D’Ignazio and Lauren F. Klein in [Data Feminism](https://mitpress.mit.edu/books/data-feminism). Usually, the bad use of data starts with a bad data collection practice. Data analysts in corporations, NGOs, public policy organizations and even in science usually analyze the data that is available.
 
 https://contributors.dataobservatory.eu/data-curators.html#critical-attitude
