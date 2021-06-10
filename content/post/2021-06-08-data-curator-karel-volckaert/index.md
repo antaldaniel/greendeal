@@ -66,7 +66,7 @@ Trust. In a society where “value” and even “truth” is determined more by
 
 If I may refer to the previous answer: credibility is enhanced through cross-links between different data from different domains that “does not disprove” one another or that is internally consistent. If, say, data on taxable income goes in one direction and taxes in another, it is the reasoned reconciliation of the - alleged or real - inconsistency that will validate the comprehensive data set. So I am a great believer in broad, real-time observatories where not only the data capture, but the data reconciliation is automated, sometimes by means of a simple comparative statics analysis, in other cases maybe through quite elaborate artificial intelligence.
 
-{{< figure src="/media/img/observatory_screenshots/greendeal_and_zenodo.png" caption="Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository[Green Deal Data Observatory on Zenodo](https://zenodo.org/communities/greendeal_observatory/)" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/greendeal_and_zenodo.png" caption="Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Green Deal Data Observatory on Zenodo](https://zenodo.org/communities/greendeal_observatory/)." numbered="true" >}}
 
 ## Join us
 
