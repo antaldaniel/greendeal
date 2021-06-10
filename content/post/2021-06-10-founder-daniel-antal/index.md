@@ -41,11 +41,11 @@ Our [retroharmonize](https://retroharmonize.dataobservatory.eu/) and [regions](h
 
 **Is there a number or piece of information that recently surprised you? If so, what was it?**
  
-There were a few numbers that surprised me, and some of them were brought up by our observatory teams. Karel is talking about the fact that not all green energy is green at all: many hydropower stations contribute to the greenhouse effect and not reduce it. Annette has been talking about the growing interest in the Dalmatian breed after the Disney 101 Dalmatians movies, and it reminded me of the astonishing growth in interest for chess sets, chess tutorials, and platform subscriptions after the success of Netflix’s The Queen’s Gambit.
-
-Annette is talking about the importance of cultural influencers, and on that theme, what could be more exciting that Netflix’s biggest success so far is not a detective series or a soap opera but a coming-of-age story of a female chess prodigy. Intelligence is sexy, and we are in the intelligence business. 
+There were a few numbers that surprised me, and some of them were brought up by our observatory teams. Karel is talking about the fact that not all green energy is green at all: many hydropower stations contribute to the greenhouse effect and not reduce it. Annette brought up the growing interest in the [Dalmatian breed](/post/2021-06-09-team-annette-wong/) after the Disney *101 Dalmatians* movies, and it reminded me of the astonishing growth in interest for chess sets, chess tutorials, and platform subscriptions after the success of Netflix’s *The Queen’s Gambit*.
 
 {{< figure src="/media/img/blogposts_2021/queens_gambit_bloomberg.png" caption="*The Queen’s Gambit’ Chess Boom Moves Online By Rachael Dottle* on [bloomberg.com](https://www.bloomberg.com/graphics/2020-chess-boom/)" numbered="true" >}}
+
+Annette is talking about the importance of cultural influencers, and on that theme, what could be more exciting that [Netflix’s biggest success](https://www.netflix.com/nl-en/title/80234304) so far is not a detective series or a soap opera but a coming-of-age story of a female chess prodigy. Intelligence is sexy, and we are in the intelligence business. 
 
 But to tell a more serious and more sobering number, I recently read with surprise that there are [more people smoking cigarettes](https://www.theguardian.com/society/2021/may/27/number-of-smokers-has-reached-all-time-high-of-11-billion-study-finds) on Earth in 2021 than in 1990. Population growth in developing countries replaced the shrinking number of developed country smokers. While I live in Europe, where smoking is strongly declining, it reminds me that Europe’s population is a small part of the world. We cannot take for granted that our home-grown experiences about the world are globally valid.
 
@@ -56,13 +56,15 @@ But to tell a more serious and more sobering number, I recently read with surpri
 *You can find these examples, together with many more that our contributors recommend, in the motivating examples of [Create New Datasets](https://contributors.dataobservatory.eu/data-curators.html#create-new-datasets) and the [Remain Critical](https://contributors.dataobservatory.eu/data-curators.html#critical-attitude) parts of our onboarding material. We hope that more and more professionals and citizen scientist will help us to create high-quality and open data.*
 
 The real power lies in designing a data collection program. A consistent data collection program usually requires an investment that only powerful organizations, such as government agencies, very large corporations, or the richest universities can afford. You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling.
- 
- 
+
 {{< figure src="/media/img/slides/value_added_from_automation.png" caption="You cannot really analyze the data that is not collected and recorded; and usually what is not recorded is more interesting than what is. Our observatories want to democratize the data collection process and make it more available, more shared with research automation and pooling." numbered="true" >}}
 
 **From your perspective, what do you see being the greatest problem with open data in 2021?**
  
 I have been involved with open data policies since 2004. The problem has not changed much: more and more data are available from governmental and scientific sources, but in a form that makes them useless. Data without clear description and clear processing information is useless for analytical purposes: it cannot be integrated with other data, and it cannot be trusted and verified. If researchers or government entities that fall under the [Open Data Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG) release data for reuse in a way that does not have descriptive or processing metadata, it is almost as if they did not release anything. You need this additional information to make valid analyses of the data, and to reverse-engineer them may cost more than to recollect the data in a properly documented process.
+
+{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" caption="Our [API](/#data) is not only publishing descriptive and processing metadata alongside with our data, but we also make all critical elements of our processing code available for peer-review on [rOpenGov](/authors/ropengov/)" numbered="true" >}}
+
  
 **What do you think the Green Deal Data Observatory, and our other automated observatories do, to make open data more credible in the European economic policy community and be accepted as verified information?**
  
