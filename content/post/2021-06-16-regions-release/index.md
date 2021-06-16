@@ -1,5 +1,5 @@
 +++
-title = "Working with Sub-national Statistical Data: New regions R Package Release"
+title = "Analyze Locally, Act Globally: New regions R Package Release"
 subtitle = "Maping Regional Data, Maping Metadata Problems"
 date = 2021-06-16T12:00:00
 lastmod = 2021-06-16T12:00:00
