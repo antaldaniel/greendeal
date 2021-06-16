@@ -27,6 +27,9 @@ projects = ["eu-datathon_2021"]
 
 +++
 
+regions_017_169
+
+{< figure src="/media/img/package_screenshots/regions_017_169.png" caption="The change from national to sub-national level comes with a huge data processing price: internal administrative boundaries, their names, codes codes change very frequently." numbered="true" >}}
 
 The new version of our [rOpenGov](https://ropengov.org/) R package
 [regions](https://regions.dataobservatory.eu/) was released today on
