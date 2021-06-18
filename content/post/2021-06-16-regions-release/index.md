@@ -32,10 +32,7 @@ projects = ["eu-datathon_2021"]
 The new version of our [rOpenGov](https://ropengov.org/) R package
 [regions](https://regions.dataobservatory.eu/) was released today on
 CRAN. This package is one of the engines of our experimental open
-data-as-service [Green Deal Data
-Observatory](https://greendeal.dataobservatory.eu/) , [Economy Data
-Observatory](https://economy.dataobservatory.eu/) , [Digital Music
-Observatory](https://music.dataobservatory.eu/) prototypes, which aim to
+data-as-service [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/), [Economy Data Observatory](https://economy.dataobservatory.eu/), [Digital Music Observatory](https://music.dataobservatory.eu/) prototypes, which aim to
 place open data packages into open-source applications.
 
 In international comparison the use of nationally aggregated indicators
