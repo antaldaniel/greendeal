@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["open-data", "open-science", "regional data", "sub-national data", "R", "data collection"]
+tags = ["open-data", "open-science", "R", "data collection"]
 
 summary = "If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service."
 
@@ -16,7 +16,7 @@ projects = ["eu-datathon_2021"]
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Annette Wong"
+  caption = "Gold Panning at Bonanza Creek, [Wikimedia](https://commons.wikimedia.org/wiki/File:Gold_panning_at_Bonanza_Creek.JPG)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
