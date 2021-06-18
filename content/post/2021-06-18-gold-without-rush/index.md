@@ -1,8 +1,8 @@
 +++
 title = "Open Data - The New Gold Without the Rush"
 subtitle = "Open Data-as-Service"
-date = 2021-06-18T12:00:00
-lastmod = 2021-06-18T12:00:00
+date = 2021-06-18T17:00:00
+lastmod = 2021-06-18T17:00:00
 draft = false
 
 authors = ["daniel_antal"]
