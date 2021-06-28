@@ -1,6 +1,6 @@
 +++
-title = ""
-subtitle = "Open Data-as-Service"
+title = "Including Indicators from Arab Barometer in Our Observatory"
+subtitle = "New version of retroharmonize Released on CRAN"
 date = 2021-06-28T09:00:00
 lastmod = 2021-06-28T09:00:00
 draft = false
