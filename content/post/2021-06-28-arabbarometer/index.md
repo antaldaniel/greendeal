@@ -16,7 +16,7 @@ projects = ["eu-datathon_2021"]
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Climate Awareness in the Arab World. Get this plot from [figshare](https://doi.org/10.6084/m9.figshare.14854359)."
+  caption = "Climate Awareness in the Arab World. Get this plot from      [figshare](https://doi.org/10.6084/m9.figshare.14854359)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -70,10 +70,7 @@ file formatting legacy.
 -   *Missing case harmonization* means that various forms of missingness
     are treated the same way.
 
-{{< figure src="/media/img/blogposts_2021/arab_barometer_5_climate_change_by_country.png" caption="For the climate
-awareness dataset get the country averages and aggregates from [Zenodo](https://doi.org/10.5281/zenodo.5035562), and the plot in `jpg`
-or `png` from [figshare](https://doi.org/10.6084/m9.figshare.14854359)." numbered="true" >}}
-
+{{< figure src="/media/img/blogposts_2021/arab_barometer_5_climate_change_by_country.png" caption="For the climate awareness dataset get the country averages and aggregates from [Zenodo](https://doi.org/10.5281/zenodo.5035562), and the plot in `jpg` or `png` from [figshare](https://doi.org/10.6084/m9.figshare.14854359)." numbered="true" >}}
 
 In our new [Arab Barometer case
 study](https://retroharmonize.dataobservatory.eu/articles/arabbarometer.html),
@@ -132,8 +129,7 @@ code them consistently `1 = free_and_fair`, `2 = some_minor_problems`,
 
 Of course, this harmonization is essential to get clean results like this:
 
-{{< figure src="/media/img/blogposts_2021/arabb-comparison-country-chart.png" caption="For evaluation of parliamentary elections dataset get the replication data and the code from the 
-[Zenodo](hhttps://doi.org/10.5281/zenodo.5034759) open repository." numbered="true" >}}
+{{< figure src="/media/img/blogposts_2021/arabb-comparison-country-chart.png" caption="For evaluation or reuse of parliamentary elections dataset get the replication data and the code from the [Zenodo](hhttps://doi.org/10.5281/zenodo.5034759) open repository." numbered="true" >}}
 
 In our case study, we had three forms of missingness: the respondent
 *did not know* the answer, the respondent *did not want* to answer, and
