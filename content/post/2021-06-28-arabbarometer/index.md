@@ -160,7 +160,7 @@ Observatory](https://economy.dataobservatory.eu/).
 ## Further plans
 
 Retrospective survey harmonization is a far more complex task than this
-blogpost suggest. We are releasing example codes, datasets and charts
+blogpost suggest. Retrospective survey harmonization is a far more complex task than this blogpost suggest, because established survey programs have gathered decades of legacy data in legacy coding schemes and legacy file formats.  Putting the data right, and especially putting the invaluable descriptive and administrative (processing) metadata right is a huge undertaking. We are releasing example codes, datasets and charts for researchers to comapre our harmonized results with theirs, and improve our software. We are releasing example codes, datasets and charts
 for researchers to comapre our harmonized results with theirs, and
 improve our software.
 
