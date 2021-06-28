@@ -257,7 +257,7 @@ The [United Kingdom Input-Output Analytical Tables Daniel Antal, based
 on the work edited by Richard
 Wild](https://iotables.dataobservatory.eu/articles/united_kingdom_2010.html)
 is a use case on how to correctly import data from outside Eurostat
-(i.e. not with `eurostat::get_eurostat()`) and join it properly to a
+(i.e., not with `eurostat::get_eurostat()`) and join it properly to a
 SIOT. We also used this example to create unit tests of our functions
 from a published, official government statistical release.
 
@@ -291,11 +291,10 @@ greenhouse gases.
 The last released version of *iotables* is Importing and Manipulating
 Symmetric Input-Output Tables (Version 0.4.4). Zenodo.
 [https://doi.org/10.5281/zenodo.4897472](https://zenodo.org/record/4897472),
-but we are alread working on a new major release. In that release, we
+but we are already  working on a new major release. (Download the {{< staticref "/media/bibliography/cite-iotables.bib" "newtab" >}}BibLaTeX entry{{< /staticref >}}.) In that release, we
 are planning to build in the necessary vocabulary into the metadata
 functions to increase the functionality of the package, and create new
-indicators for our [Green Deal Data
-Observatory](https://greendeal.dataobservatory.eu/). This experimental
+indicators for our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/). This experimental
 data observatory is creating new, high quality statistical indicators
 from open governmental and open science data sources that has not seen
 the daylight yet.
