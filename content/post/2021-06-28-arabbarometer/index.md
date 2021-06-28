@@ -175,6 +175,8 @@ use it for your work, please kindly cite it as:
 Daniel Antal (2021). retroharmonize: Ex Post Survey Data Harmonization.
 R package version 0.1.17. <https://doi.org/10.5281/zenodo.5034752>
 
+Download the {{< staticref "/media/bibliography/cite-retroharmonize.bib" "newtab" >}}BibLaTeX entry{{< /staticref >}}.
+
 ### Tutorial to work with the Arab Barometer survey data
 
 Daniel Antal, & Ahmed Shaibani. (2021, June 26). Case Study: Working

@@ -101,7 +101,9 @@ Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html)
 
 If you use `regions` in your work, please cite the
 package as:
-Daniel Antal, Kasia Kulma, Istvan Zsoldos, & Leo Lahti. (2021, June 16). regions (Version 0.1.7). CRAN. [http://doi.org/10.5281/zenodo.4965909]((https://doi.org/10.5281/zenodo.4965909))
+Daniel Antal. (2021, June 16). regions (Version 0.1.7). CRAN. [http://doi.org/10.5281/zenodo.4965909]((https://doi.org/10.5281/zenodo.4965909))
+
+Download the {{< staticref "/media/bibliography/cite-regions.bib" "newtab" >}}BibLaTeX entry{{< /staticref >}}.
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/regions)](https://cran.r-project.org/package=regions) 
 
