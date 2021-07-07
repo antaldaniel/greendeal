@@ -43,6 +43,14 @@ tags:
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/GreenDealObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78556699/
 url_custom: [{name = "Prezi", url = "http://prezi.com/emqi9ylcpuyr/psi-magyarorszagi-piac/"}]
 
 # Digital Object Identifier (DOI)

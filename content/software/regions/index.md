@@ -55,11 +55,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EconDataObs
+  url: https://twitter.com/GreenDealObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/78562153/
+  url: https://www.linkedin.com/company/78556699/
 
 url_pdf: ''
 url_code: ''

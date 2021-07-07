@@ -17,7 +17,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/antaldaniel
+  url: https://twitter.com/GreenDealObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78556699/
 url_code: ""
 url_pdf: ""
 url_slides: ""

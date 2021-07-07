@@ -21,7 +21,14 @@ external_link = ""
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
-
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/GreenDealObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78556699/
 # Links (optional).
 url_pdf = ""
 url_slides = ""
