@@ -20,15 +20,7 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/GreenDealObs
-- icon: linkedin
-  icon_pack: fab
-  name: Connect
-  url: https://www.linkedin.com/company/78556699/
+
 # Links (optional).
 url_pdf = ""
 url_slides = ""
@@ -46,6 +38,8 @@ url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observato
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+  
+slides = ""
 +++
 
 Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for policy partners, academic partners and a consultancy partner. Our project is based on agile, open collaboration with three types of contributors.
