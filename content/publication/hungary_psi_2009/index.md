@@ -43,6 +43,7 @@ tags:
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+links:
 - icon: twitter
   icon_pack: fab
   name: Follow
