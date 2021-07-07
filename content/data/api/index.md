@@ -1,5 +1,5 @@
 ---
-title: API
+title: Data API
 summary: Get data from the Green Deal Data Observatory via our API
 tags:
 - api
