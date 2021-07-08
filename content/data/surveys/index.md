@@ -17,11 +17,23 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EconDataObs
+  url: https://twitter.com/GreenDealObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/78562153/
+  url: https://www.linkedin.com/company/78556699/
+- icon: github
+  icon_pack: fab
+  name: Our Software
+  url: https://github.com/rOpenGov/retroharmonize/
+- icon: book-open
+  icon_pack: fas
+  name: Software Documentation
+  url: https://retroharmonize.dataobservatory.eu/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""

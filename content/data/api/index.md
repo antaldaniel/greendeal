@@ -1,6 +1,6 @@
 ---
 title: Data API
-summary: Get data from the Competition Data Observatory via our API
+summary: Get data from the Green Deal Data Observatory via our API
 tags:
 - api
 date: "2021-06-01T11:00:00Z"
@@ -22,7 +22,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EconDataObs
+  url: https://twitter.com/GreenDealObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78556699/
 url_code: ""
 url_pdf: ""
 url_slides: ""
