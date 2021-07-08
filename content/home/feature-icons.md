@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 17
+active: false
 
 title: How Does It Work?
 subtitle: A data observatory is a permanent data collection, processing and dissemination point.
