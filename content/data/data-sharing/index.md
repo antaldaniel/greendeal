@@ -17,7 +17,15 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/dataandlyrics
+  url: https://twitter.com/GreenDealObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78556699/
+- icon: database
+  icon_pack: fas
+  name: API
+  url: https://api.greendeal.dataobservatory.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""

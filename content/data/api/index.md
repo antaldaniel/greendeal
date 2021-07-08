@@ -2,9 +2,9 @@
 title: Data API
 summary: Get data from the Green Deal Data Observatory via our API
 tags:
-- api
+- API
 date: "2021-06-01T11:00:00Z"
-lastmod: "2021-07-07T11:00:00Z"
+lastmod: "2021-07-08T11:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Data API
-    tag: api
+    tag: API
   - name: Metadata
     tag: metadata
   - name: Surveys
