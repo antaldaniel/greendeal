@@ -33,6 +33,10 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78556699/
+- icon: database
+  icon_pack: fas
+  name: API
+  url: https://api.greendeal.dataobservatory.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""
