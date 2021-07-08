@@ -1,5 +1,5 @@
 ---
-title: Open Government Data
+title: Open Data
 summary: Many countries in the world allow access to a vast array of information,
     such as documents under freedom of information requests, statistics,
     datasets. In the European Union, most taxpayer financed data in
@@ -8,9 +8,9 @@ summary: Many countries in the world allow access to a vast array of information
     reviewable and reproducible, which implies open access.
 
 tags:
-- psi
-- open-gov
-- foi
+- open-data
+- FOI
+- PSI
 
 date: "2021-05-16T00:00:00Z"
 lastmod: "2021-06-25T15:00:00"
@@ -21,12 +21,19 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
+  preview_only: true
+
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/GreenDealObs
+  url: https://twitter.com/EconDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78562153/
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -126,7 +133,7 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 ## From Datasets to Data Integration, Data to Information {#data-integration}
 
 “Data is only potential information, raw and unprocessed, prior to
-anyone actually being informed by it.” [2]
+anyone actually being informed by it.” ^[2]
 
 -   We are building simple databases and supporting APIs that release
     the data without restrictions, in a tidy format that is easy to join

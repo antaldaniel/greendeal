@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 28
+weight: 35
 
 title: Data
 subtitle: 'API to our data, our sources, how we process and validate it, how we increase its quality.'
@@ -25,12 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: API
+  - name: Data API
     tag: api
-  - name: PSI, FOI and open gov
-    tag: open-gov
-  - name: Open Science
-    tag: open-science
+  - name: Metadata
+    tag: metadata
+  - name: Surveys
+    tag: surveys
+  - name: Open Data
+    tag: open-data
   - name: Data Sharing
     tag: data-sharing
 
