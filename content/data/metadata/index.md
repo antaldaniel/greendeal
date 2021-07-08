@@ -53,7 +53,7 @@ The **Competition Data Observatory** temporarily shares an API with the [Economy
 {{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" 
 caption="[api.greendeal.dataobservatory.eu](https://api.greendeal.dataobservatory.eu/database/metadata) descriptive metadata" numbered="true" >}}
 
-## Descriptive Metadata
+## Descriptive Metadata {#descriptive-metadata}
 
 |   |   |   
 |:--|:-:|
@@ -121,7 +121,7 @@ The **Optional** (O) properties are optional and provide richer description. For
      - The open-source statistical software code that processed the data.
 
 
-## Administrative (Processing) Metadata
+## Administrative (Processing) Metadata {#processing-metadata}
 
 Like with diamonds, it is better to know the history of a dataset, too. Our administrative metadata contains codelists that follow the SXDX statistical metadata standards, and similarly strucutred information about the processing history of the dataset.
 

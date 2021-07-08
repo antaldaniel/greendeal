@@ -7,7 +7,7 @@ draft = false
 
 authors = ["botond_vitos"]
 
-tags = ["open-data", "open-science", "trustworthy AI", "API"]
+tags = ["open-data", "open-science", "trustworthy AI", "API", "metadata"]
 
 summary = "I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction."
 
