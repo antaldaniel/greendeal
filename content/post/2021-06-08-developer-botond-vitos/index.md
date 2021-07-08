@@ -45,7 +45,7 @@ In addition, working with Reprex, I became involved in the development of the Li
 
 As my answer to the previous question suggests, my main concern is the development of a trustworthy AI framework. Acknowledging the national and cultural diversity of the European Union, it is essential to enable access to data that takes into account such diversities and the priorities of smaller stakeholders as well. This type of data needs to be comprehensive and well-maintained, and I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction.
 
-{{< figure src="/media/img/observatory_screenshots/GDO_API_description_table.png" caption="Our API contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" caption="Our [API](https://api.greendeal.dataobservatory.eu/) contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
  
  
 ## Read More on Data & Lyrics

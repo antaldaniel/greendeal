@@ -50,8 +50,8 @@ All the data and the metadata are available as open data, without database use r
 
 The **Competition Data Observatory** temporarily shares an API with the [Economy Data Observatory](https://economy.dataobservatory.eu/), which serves as an incubator for similar economy-oriented reproducible research resources. 
 
-
-{{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="api.economy.dataobservatory.eu: processing metadata" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" 
+caption="[api.greendeal.dataobservatory.eu](https://api.greendeal.dataobservatory.eu/database/metadata) descriptive metadata" numbered="true" >}}
 
 ## Descriptive Metadata
 
@@ -123,10 +123,9 @@ The **Optional** (O) properties are optional and provide richer description. For
 
 ## Administrative (Processing) Metadata
 
-
-## Administrative Metadata
-
 Like with diamonds, it is better to know the history of a dataset, too. Our administrative metadata contains codelists that follow the SXDX statistical metadata standards, and similarly strucutred information about the processing history of the dataset.
+
+{{< figure src="/media/img/observatory_screenshots/GDO_API_codebook_table.png" caption="[api.greendeal.dataobservatory.eu](https://api.greendeal.dataobservatory.eu/database/codebook) processing metadata" numbered="true" >}}
 
 See for further reference [The codebook Class](https://r.dataobservatory.eu/articles/codebook.html).
 
