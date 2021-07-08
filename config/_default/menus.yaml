@@ -13,9 +13,12 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+  - name: Data API
+    url: '#data'
+    weight: 25
   - name: Get Involved
-    url: '#projects'
-    weight: 3k0
+    url: '#contributors'
+    weight: 99
   - name: Contributors
     url: '#contributors'
     weight: 40
@@ -31,9 +34,6 @@ main:
   - name: Talks
     url: '#talks'
     weight: 70
-  - name: Data API
-    url: '#data'
-    weight: 79
   - name: Contact
     url: '#contact'
     weight: 80
