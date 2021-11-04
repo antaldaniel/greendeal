@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Daniel Antal
-name: Daniel Antal, CFA
+name: Daniel Antal
 
 # Username (this should match the folder name)
 authors:
@@ -11,12 +11,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Developer of open-source statistical software
+role: Data Scientist & Founder of the Digital Music Observatory
 
 # Organizations/Affiliations
 organizations:
 - name: Reprex B.V.
   url: "https://reprex.nl/"
+- name:  Centre for Competition Policy
+  url: "http://competitionpolicy.ac.uk/"
+- name: IViR Institute for Information Law
+  url: "https://www.ivir.nl/employee/antaldaniel/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reproducible social science, economics and finance.
@@ -34,6 +38,9 @@ education:
   - course: M.Sc. Economic Regulation and Competition Policy
     institution: City University
     year: 2002
+  - course: M.Sc. Economics, major Actuary Science and minor Economic Decisions (Applied Operational Research)
+    institution: Budapest Corvinus University
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,27 +50,30 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/antaldaniel/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/antaldaniel
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-5712-2103
-- icon: ssrn
-  icon_pack: ai
-  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Is3IOGEAAAAJ&hl=en
+  link: https://orcid.org/0000-0001-7513-6760
 - icon: github
   icon_pack: fab
   link: https://github.com/antaldaniel
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/antaldaniel/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Is3IOGEAAAAJ&hl=en
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/antaldaniel
+  
+
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,4 +89,6 @@ user_groups:
 - developers
 ---
 
-Daniel Antal is an experienced data scientist and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations. Applying reproducible scientific methods, we are building open collaborations in the creative sectors to build trustworthy, ethical AI solutions, validate commercial AI and use big data for the benefit of small enterprises.  With a 20 years of experience in management consultancy he applies a thoroughly professional approach based in economics, finance in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
+Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
+
+He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/ and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
