@@ -5,6 +5,7 @@ tags:
 - metadata
 
 date: "2021-07-07T00:00:00Z"
+lastmod: "2021-11-10T13:15:00+01:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,19 +18,15 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EconDataObs
+  url: https://twitter.com/GreenDealObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/78562153/
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/dataobservatory-eu/dataobservatory/
-- icon: book-open
+  url: https://www.linkedin.com/company/78556699/
+- icon: database
   icon_pack: fas
-  name: Documentation
-  url: https://r.dataobservatory.eu/
+  name: Try API
+  url: https://api.greendeal.dataobservatory.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -44,6 +41,8 @@ slides: trustworthy-ai
 ---
 
 *Adding metadata exponentially increases the value of data. Did your region add a new town to its boundaries? How do you adjust old data to conform to constantly changing geographic boundaries? What are some practical ways of combining satellite sensory data with my organization's records? And do I have the right to do so? Metadata logs the history of data, providing instructions on how to reuse it, also setting the terms of use. We automate this labor-intensive process applying the FAIR data concept.*
+
+See our blogpost [How We Add Value to Public Data With Better Curation And Documentation?](post/2021-11-08-indicator_findable/).
 
 In our observatory we apply the concept of [FAIR](#FAIR) (**f**indable, **a**ccessibe, **i**nteroperable, and **r**eusable digital assets) in our APIs and in our open-source statistical software packages. 
 
