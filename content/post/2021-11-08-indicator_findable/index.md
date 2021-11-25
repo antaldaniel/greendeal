@@ -7,9 +7,9 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["music","data-as-service", "API", "metadata", "FAIR principle"]
+tags = ["R&D","data-as-service", "API", "metadata", "FAIR principle", "data interoperability", "better documentation", "data curation"]
 
-summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody?  We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
+summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
 
 project = "horizon"
 
@@ -27,28 +27,25 @@ project = "horizon"
 
 +++
 
-In this example, we show a simple indicator: the *Government Budget Allocations for R&D in Environment* in many European countries. This is an
-importand demand driver in the Music economy pillar of our Green Deal Data Observatory, and generally R&D spending is an important indicator for our [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/), too.
+In this example, we show a simple indicator: the *Government Budget Allocations for R&D in Environment* in many European countries. (In our *Digital Music Observatory* we give a more relevant [example](https://music.dataobservatory.eu/post/2021-11-08-indicator_findable/) about the turnover of the radio industry in Europe.)
 
-This dataset comes from a public datasource, the data warehoulse of the
+This dataset comes from a public datasource, the data warehouse of the
 European statistical agency, Eurostat. Yet it is not trivial to use:
 unless you are familiar with the *nomenclature for the analysis and comparison of scientific programmes and budgets* or the [Frascati Manual](https://www.oecd.org/sti/frascati-manual-2015-9789264239012-en.htm), you will probably not find [this dataset](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=gba_nabsfin07&lang=en) on the Eurostat website. 
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/gbard_environment_expenditure_plot.png" caption="The raw data can be retrieved GBARD by socioeconomic objectives (NABS 2007)[gba_nabsfin07] Eurostat folder (if you find it.)" numbered="false" >}}</td>
 
-Our, in a way subjective, version of this statistical indicator is
-documented following the [FAIR
-principles](https://www.go-fair.org/fair-principles/): our data assets
+Our version of this statistical indicator is documented following the [FAIR principles](https://www.go-fair.org/fair-principles/): our data assets
 are findable, accessible, interoperable, and reusable. While the
 Eurostat data warehouse partly fulfills these important data quality
-expectations, we can improved them by a great deal. And we can also
-improve the dataset, too, as we will show in the next blogpost.
+expectations, we can improve them significantly. And we can also
+improve the dataset, too, as we will show in the [next blogpost](/post/2021-11-06-indicator_value_added/).
 
 ## Findable Data
 
-Our data observatories add value with curating the data – we bring this
+Our data observatories add value by curating the data--we bring this
 indicator to light with a more descriptive name, and we place it in
-context with our [Green Deal Data ObservatoryObservatory](https://greendeal.dataobservatory.eu/).
+context with our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/).
 While many people may need this dataset in the environmental policy organizations, NGOs, scientific journalists, or researchers, most of them has no training in the nomenclatures of scientific and R&D spending or public budget accounts. Our curated data observatories bring together many
 available data around important domains. Our *Green Deal Data Observatory*, for example, aims to form an ecosystem of climate policy and climate change mitigation data users and producers.
 
@@ -66,9 +63,9 @@ different keywords, such as *Protection of environment*, or maybe *Umweltschutz*
 
 ## Accessible Data
 
-Our data is accessible in two forms: in csv tabular format (which can be
+Our data is accessible in two forms: in `csv` tabular format (which can be
 read with Excel, OpenOffice, Numbers, SPSS and many similar spreadsheet
-or statistical applications) and in JSON for automated importing into
+or statistical applications) and in `JSON` for automated importing into
 your databases. We can also provide our users with SQLite databases,
 which are fully functional, single user relational databases.
 
@@ -76,16 +73,14 @@ Tidy datasets are easy to manipulate, model and visualize, and have a
 specific structure: each variable is a column, each observation is a
 row, and each type of observational unit is a table. This makes the data
 easier to clean, and far more easier to use in a much wider range of
-applications than the original data we used. Sounds simple, and it is
-simple, yet we find that even governmental statistical agencies often
-publish untidy data, not to mention scientific publications. Which is a
-problem, because you will lose minutes, even hours with tidying, and if
-you do not do it in a reproducible workflow, chances are high that you
-will overwrite, delete, or omit a data or a label.
-
+applications than the original data we used. In theory, this is a simple objective, 
+yet we find that even governmental statistical agencies--and even scientific
+publications--often publish untidy data. This poses a significant problem that implies
+productivity loses: tidying data will require long hours of investment, and if 
+a reproducible workflow is not used, data integrity can also be compromised: 
+chances are that the process of tidying will overwrite, delete, or omit a data or a label.
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/tidy-8.png" caption="[Tidy datasets](https://r4ds.had.co.nz/tidy-data.html) are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table." numbered="false" >}}</td>
-
 
 While the original data source, the Eurostat data warehouse is
 accessible, too, we added value with bringing the data into a [tidy
@@ -98,20 +93,15 @@ plotting in Excel, OpenOffice or Numbers.
 
 Our data can be easily imported with, or joined with data from other internal or external sources.
 
-<td style="text-align: center;">{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" caption="All our indicators come with standardized descriptive metadata, and statistical (processing) metadata. See our [API](https://api.music.dataobservatory.eu/database/metadata/) " numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" caption="All our indicators come with standardized descriptive metadata, and statistical (processing) metadata. See our [API](https://api.greendeal.dataobservatory.eu/database/metadata/) " numbered="false" >}}</td>
 
 All our indicators come with standardized descriptive metadata,
-following two important standards, the [Dublin
-Core](https://dublincore.org/) and
+following two important standards, the [Dublin Core](https://dublincore.org/) and
 [DataCite](https://datacite.org/)–implementing not only the mandatory,
 but the recommended descriptions, too. This will make it far easier to
-connect the data with other data sources. For example, the turnover or
-radio broadcasters with the number radio broadcasting enterprises or
-radio stations in the same countries.
+connect the data with other data sources, e.g. turnover with the number of radio broadcasting enterprises or radio stations within specific territories.
 
-But we went much further. Or data uses [Statistical Data and Metadata
-eXchange](https://sdmx.org/?page_id=3215/) standardized codebooks, unit
-descriptions and other statistical and administrative metadata.
+Our passion for documentation standards and best practices goes much further: our data uses [Statistical Data and Metadata eXchange](https://sdmx.org/?page_id=3215/) standardized codebooks, unit descriptions and other statistical and administrative metadata.
 
 
 <td style="text-align: center;">{{< figure src="/media/img/reports/european_visbility_publication.png" caption="We participate in [scientific work](https://reprex.nl/publication/european_visibilitiy_2021/) related to data interoperability." numbered="false" >}}</td>
@@ -123,11 +113,11 @@ We add citation, attribution data, and licensing terms. Most of our
 datasets can be used without commercial restriction after acknowledging
 the source, but we sometimes work with less permissible data licenses.
 
-But we added further value to encourage re-use. Apart from tidying, we
-significantly increased the usability of even public data with handling
-missing cases. This is the subject of our next blogpost.
+In the case presented here, we added further value to encourage re-use. In addition to tidying, we
+significantly increased the usability of public data by handling
+missing cases. This is the subject of our [next blogpost](/post/2021-11-06-indicator_value_added/).
 
-*Are you a data user? Give us some feedback? Shall we do some further
+*Are you a data user? Give us some feedback! Shall we do some further
 automatic data enhancements with our datasets? Document with different
 metadata? Link more information for business, policy, or academic use? Please 
 give us any [feedback](https://reprex.nl/#contact)!*

@@ -18,15 +18,15 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EconDataObs
+  url: https://twitter.com/GreenDealObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/78562153/
+  url: https://www.linkedin.com/company/78556699/
 - icon: database
   icon_pack: fas
   name: Try API
-  url: https://api.economy.dataobservatory.eu/
+  url: https://api.greendeal.dataobservatory.eu/
 - icon: book-open
   icon_pack: fas
   name: Documentation
