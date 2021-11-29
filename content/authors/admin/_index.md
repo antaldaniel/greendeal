@@ -18,7 +18,7 @@ organizations:
   url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,7 +54,9 @@ highlight_name: false
 
 Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the [European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en) strategic plan. It aims to make the EU's economy sustainable by turning climate and environmental challenges into opportunities, and making the transition just and inclusive for all.
 
-Our automated observatory participates in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge #1. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
+Our automated observatory want to support evidence-based policy making, and KPIs for business and policy-makers alike with truly usable open science and open governmental data. We want to make sure that environmental, socio-economic, political data is brought to easy-to-import, easy to compare, tidy formats.  We use data that has been scientifically validated, and we aim to validate all our open-source processing code in scientific peer-review. 
+
+Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/presentations/GDO_Datathon_Submission_2021.pdf" "newtab" >}}competition presentation{{< /staticref >}}.
 
