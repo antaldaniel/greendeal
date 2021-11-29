@@ -18,7 +18,7 @@ organizations:
   url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
   
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: High-quality data on public opinion and facts about climate change and evidence-based policy design.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
