@@ -58,7 +58,7 @@ Our automated observatory want to support evidence-based policy making, and KPIs
 
 Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/presentations/GDO_Datathon_Submission_2021.pdf" "newtab" >}}competition presentation{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/documents/Green_Deal_Data_Observatory.pdf" "newtab" >}}description and open call for collaboration.{{< /staticref >}}.
 
 {{< icon name="hand-point-right" pack="fas" >}} Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/#software) and use our data for publications. See some [use cases](/#featured).
 
