@@ -43,10 +43,7 @@ url_video: ""
 slides: data-curation
 ---
 
-*Data analysts spend 80% of their time on data processing, even though computers can perform these task much faster, with far less     errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an      NGO does not have to reprocess the very same data twice**
-
-
-*Data analysts spend 80% of their time on data processing, even though computers can perform these task much faster, with far less errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an      NGO does not have to reprocess the very same data twice**
+*Data analysts spend 80% of their time on data processing, even though computers can perform these task much faster, with far less errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an      NGO does not have to reprocess the very same data twice*
 
 See our blogpost [How We Add Value to Public Data With Imputation and Forecasting?](/post/2021-11-06-indicator_value_added/).
 
