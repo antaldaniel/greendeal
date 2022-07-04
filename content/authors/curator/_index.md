@@ -61,6 +61,8 @@ user_groups:
   - join us
 ---
 
+[![dataobservatory](https://img.shields.io/badge/ecosystem-dataobservatory.eu-3EA135.svg)](https://dataobservatory.eu/)
+
 *Help us curate data – tell us what sort of information is missing from your research agenda. Challenge us and collaborate with us in the crafting of valuable datasets that combine domain knowledge with reproducible, open data research practices.*
 
 ## Curatorial Expectations {#skillset-curator}
@@ -79,21 +81,43 @@ user_groups:
 
 ## Technical Requirements {#technical-requirements-curator}
 
-- Make sure that you read the [Contributors Covenant](https://www.contributor-covenant.org/). You must make this [pledge](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. Participating in our data observatories requires everybody to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. It's better this way for you and for us!
+You can find a checklist with all we need in the [github/dataobservatory-eu repostitory](https://github.com/dataobservatory-eu/new-contributors/blob/main/data-curators/new_curators.md). Make sure that you read the [Contributors Covenant](https://www.contributor-covenant.org/). You must make this [pledge](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. Participating in our data observatories requires everybody to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. It's better this way for you and for us!
 
-- Make sure that you have and [ORCiD ID](https://orcid.org/).  This is a standard identification for scientific publications. We need your numeric ORCiD ID.
+- [x] Name, affiliation, education details, one-line and short
+    biography. Please, send back this [bio_template.txt text
+    file](https://raw.githubusercontent.com/dataobservatory-eu/new-contributors/main/biography/bio_template.txt)
+    with your details or, if you know markdown, use [this
+    version](https://github.com/dataobservatory-eu/new-contributors/blob/main/biography/_index.md).
+    The files are identical, but your word processor may not know how to
+    open an .md file.
+- [x] Your [ORCiD](https://orcid.org/) to resolve ambiguity with
+    similarly named people. You may use different library or publication
+    service IDs, such as Google Scholar, Publeon, etc, you may provide
+    them, too, but we do need an ORCiD ID, because most of the EU open
+    science infrastructure and the R ecosystem uses this one. If you do
+    not have it, please create one—it only takes a few minutes. Please
+    add it to the bio_template.txt.
+- [x] Your LinkedIn ID, add it to the bio_template.txt.
+- [ ] Your Github account name. If you do not have one, please create
+    one. As a data curator, you may not need it, but if you contribute
+    in our R&D or publication efforts, you will need it.
+- [ ] Your Keybase account name. If you do not have one, please create
+    one, if you want to be able to chat with us, or exchange calls, data
+    with us in a discrete, free, open-source and secure environment.
+    Keybase is an open-source substitute for Slack. It is owned by Zoom
+    and it can start Zoom or Google Meet calls.
+- [ ] Any other social media that you use strictly professionally.
+- [x] You should follow our file naming conventions, and avoid the use
+    of special characters in any file names at all times: <space>, `$`,
+    `:`,`;`,`,`,`.`, `"`, `' tick` or backtick.
+- [x] Please send us one professional portrait of at least 400x400
+    pixels.
 
-- Make sure that you have a [Zenodo account](https://zenodo.org/) which is connected to your [ORCiD ID](https://orcid.org/).  This enables you to publish data under your name. If you curate data for our observatories, you will be the indicator's first author, and depending on what processes help you, the author of the (scientific) code that helps you calculate the values will be your co-author.
-
-- Please, follow us on social media, it really helps us finding new users and showing that we are able to grow our ecosystem.
+- [x] Please, follow us on social media, it really helps us finding new users and showing that we are able to grow our ecosystem.
   - [Green Deal Data Observatory on Linkedin](https://www.linkedin.com/company/78556699) and [Green Deal Data Observatory on Twitter](https://twitter.com/GreenDealObs)
   - [Economy Data Observatory on Linkedin](https://www.linkedin.com/company/78562153) and [Economy Data Observatory on Twitter](https://twitter.com/GreenDealObs)
   - [Digital Music Data Observatory on Linkedin](https://www.linkedin.com/company/reprexbv/) and [Digital Music Data Observatory on Twitter](https://twitter.com/dataandlyrics)
 
 - If you write code in R or Python, connect to us via Github. 
-
-- Send us {{< icon name="download" pack="fas" >}} {{< staticref "media/documents/bio_template.md" "newtab" >}}this text file{{< /staticref >}} with your biography elements. Best if you fill it out with Notepad, TextEdit, Vim or other clean text editor, but you can also send it back as an rtf file.
-
-- If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.
 
 More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/).
